@@ -198,6 +198,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\BackOffice\Index.cshtml" />
     <Content Include="Views\BackOffice\ABMSkatePark.cshtml" />
+    <Content Include="Views\BackOffice\ABM.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

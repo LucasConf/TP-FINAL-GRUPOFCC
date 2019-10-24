@@ -19,6 +19,11 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+        public ActionResult ABM()
+        {
+
+            return View();
+        }
         public ActionResult Login(Usuarios us)
         {
             BD.Existe(us);
@@ -35,7 +40,7 @@ namespace WebApplication1.Controllers
 
                 Dou = BD.ListarSkateParks();
                 ViewBag.Dou = Dou;
-                return View("ABMSkatePark");
+                return View("ABM");
             }
 
             
