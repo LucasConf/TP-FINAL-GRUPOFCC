@@ -1,0 +1,9 @@
+Idea: Skate
+Pagina informativa de skateboarding argentina.
+Mapa de skate parks(Con fotos, reseñas, desc, horarios de densidad)
+Clothing(Ropa de las marcas referentes de este deporte y las zapatillas mas adecuadas en relacion calidad-precio) 
+Hardware(Elementos necesarios para armarte tu tabla de las mejores marcas nacionales y extranjeras)
+Noticias
+Competiciones(Donde se realizan, cuanto vale la entrada, quienes participan, cuando es, etc.)
+Referentes(Perfiles, biografias, compilaciones, sponsors)
+Usuarios(Nombre de usuario, contraseña, foto, biografia, tu tabla)

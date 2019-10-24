@@ -12,6 +12,7 @@ namespace WebApplication1.Models
         private string Imagen;
         private string Desc;
         private bool Destacado;
+        private string Ubic;
 
 
 
@@ -21,23 +22,25 @@ namespace WebApplication1.Models
         public string _Imagen { get => Imagen; set => Imagen = value; }
         public string _Desc { get => Desc; set => _Desc = value; }
         public bool _Destacado { get => Destacado; set => Destacado = value; }
-
+        public string _Ubic { get => _Ubic; set => _Ubic = value; }
         public SkateParks()
         {
             idSkatePark = 0;
             Nombre = "";
             Imagen = "";
             Desc = "";
+            Ubic = "";
             Destacado = false;
         }
 
-        public SkateParks(int a, string b, string c, string d, bool e)
+        public SkateParks(int a, string b, string c, string d, bool e, string f)
         {
             idSkatePark = a;
             Nombre = b;
             Imagen = c;
             Desc = d;
             Destacado = e;
+            Ubic = f;
         }
     }
 }
